@@ -1,11 +1,5 @@
 # Student Management System
 
-- **Tech Stack** (Spring Boot 3, Java 17, React, PostgreSQL)  
-- **Setup Instructions** (backend, database, frontend)  
-- **Swagger/OpenAPI** Integration
-
-
-
 A simple **CRUD** application built with **Spring Boot 3** (Java 17) and **React**, using a **PostgreSQL** database. This application allows you to:
 
 - Create a new student record  
@@ -13,21 +7,6 @@ A simple **CRUD** application built with **Spring Boot 3** (Java 17) and **React
 - Search for students by name  
 - Update an existing student record  
 - Delete a student record  
-
-## Table of Contents
-
-1. [Features](#features)  
-2. [Tech Stack](#tech-stack)  
-3. [Prerequisites](#prerequisites)  
-4. [Database Setup](#database-setup)  
-5. [Backend Setup (Spring Boot)](#backend-setup-spring-boot)  
-6. [Swagger Integration](#swagger-integration)  
-7. [Frontend Setup (React)](#frontend-setup-react)  
-8. [API Usage](#api-usage)  
-9. [Running the Application](#running-the-application)  
-10. [License](#license)  
-
----
 
 ## Features
 
