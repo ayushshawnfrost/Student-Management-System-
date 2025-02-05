@@ -1,13 +1,10 @@
-
+# Student Management System
 
 - **Tech Stack** (Spring Boot 3, Java 17, React, PostgreSQL)  
 - **Setup Instructions** (backend, database, frontend)  
 - **Swagger/OpenAPI** Integration
 
 
----
-
-# Student Management System
 
 A simple **CRUD** application built with **Spring Boot 3** (Java 17) and **React**, using a **PostgreSQL** database. This application allows you to:
 
