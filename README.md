@@ -18,6 +18,20 @@ A simple **CRUD** application built with **Spring Boot 3** (Java 17) and **React
 
 ---
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/77b9bd93-1563-46dd-8d96-0ac7c240e29e)
+
+
+![image](https://github.com/user-attachments/assets/85a0b563-11fa-4315-b54d-f81c169f293b)
+
+
+![image](https://github.com/user-attachments/assets/8983db28-9c3e-4323-9de0-b1f6b0f8a038)
+
+![image](https://github.com/user-attachments/assets/a0683107-473b-4f91-82b6-a5c038d557c8)
+
+
+---
 ## Tech Stack
 
 - **Backend**: Spring Boot 3 (Java 17), Hibernate/JPA  
